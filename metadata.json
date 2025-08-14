@@ -1,0 +1,5 @@
+{
+  "name": "Cross-Media Curator",
+  "description": "An application to curate and share a collection of content from various platforms like YouTube, X (Twitter), Instagram, and web articles all on one page.",
+  "requestFramePermissions": []
+}
